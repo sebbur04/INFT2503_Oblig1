@@ -10,12 +10,12 @@ int main() {
     cout << "Oppgave A - Uten Tabell " << endl;
 
     //Må lage intervall som jeg kan bruke for å telle opp antall
-    const int amountoftemperatures = 5; //Lengden på perioden setter du som en konstant (Krav fra oppgaven)
+    const int lenght = 5; //Lengden på perioden setter du som en konstant (Krav fra oppgaven)
     int tempunder_10 = 0;
     int tempbetween_10_and_20 = 0;
     int tempover_20 = 0;
 
-    cout << "Du skal skrive inn " << amountoftemperatures << " temperaturer." << endl;
+    cout << "Du skal skrive inn " << lenght << " temperaturer." << endl;
 
     for (int i = 0; i < 5; i++)
     {
