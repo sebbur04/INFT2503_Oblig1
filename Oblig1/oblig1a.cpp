@@ -5,8 +5,6 @@
 #include <iostream>
 using namespace std; //Setter alias for å slippe å skrive std::cout ---> cout <<"Kult" << endl;
 
-
-// TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 int main() {
     cout << "---------------------------------------" << endl;
     cout << "Oppgave A - Uten Tabell " << endl;
